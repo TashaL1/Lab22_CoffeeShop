@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+	background-image: url("java-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 600px;
+}
+#sizeFont{
+	font-size:4em;
+}
+span{
+	font-size:1.5em;
+	color:warning;
+}
